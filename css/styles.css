@@ -362,8 +362,7 @@ ul {
 /* Clients */
 .our-clients{
     display: flex;
-    justify-content: center;
-      
+    justify-content: center;     
 }
 .our-clients li+li{
     margin-left: 30px;
@@ -382,14 +381,11 @@ ul {
     fill: var(--social-color);  
 }
 
-
 .clients:hover,
 .clients:focus { 
    border-color: var(--accent-color);
    fill: var(--accent-color);
 }
-
-
 
 /* Footer */
 
